@@ -3,4 +3,9 @@ Here, I Developed Face Recognition with OpenCV. This model can be deployed easil
 To make model Robust try to take samples at different lightning Conditions.
       <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(1).png"
          alt = "HTML Tutorial" height = "150" width = "140" />
-
+<img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(2).png"
+         alt = "HTML Tutorial" height = "150" width = "140" />
+         <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(3).png"
+         alt = "HTML Tutorial" height = "150" width = "140" />
+         <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(4).png"
+         alt = "HTML Tutorial" height = "150" width = "140" />
