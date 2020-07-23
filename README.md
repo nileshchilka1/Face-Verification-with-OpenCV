@@ -16,7 +16,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 1. Download the repository
 
     ```markdown
-    $ git clone https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR.git
+     git clone https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR.git
     ```
 
 
@@ -24,25 +24,27 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 2. Locate repository
 
     ```markdown
-    $ cd Aadhaar-Card-Details-Extractor-using-OCR
+     cd Aadhaar-Card-Details-Extractor-using-OCR
     ```
 
 3. Install requirements.txt
          
    ```markdown
-   $ pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 
-## Screenshots
+### Screenshots
 
-       <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(1).png"
+  <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(1).png"
          alt = "HTML Tutorial" height = "250" width = "300" />
-       <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(2).png"
+  <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(2).png"
          alt = "HTML Tutorial" height = "250" width = "300" />                                                                                                                           
-       <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(3).png"
+  <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(3).png"
          alt = "HTML Tutorial" height = "250" width = "300" />
-       <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(4).png"
+  <img src = "https://github.com/nileshchilka1/Face-Recognition-with-OpenCV/blob/master/Screenshot%20(4).png"
          alt = "HTML Tutorial" height = "250" width = "300" />
+
+       
          
          
          
