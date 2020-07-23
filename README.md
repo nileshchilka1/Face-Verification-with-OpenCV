@@ -15,9 +15,8 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 
 1. Download the repository
 
-    ```markdown
-     git clone https://github.com/nileshchilka1/Aadhaar-Card-Details-Extractor-using-OCR.git
-    ```
+   
+    Download Link: https://github.com/nileshchilka1/Face-Verification-with-OpenCV/archive/master.zip
 
 
 
