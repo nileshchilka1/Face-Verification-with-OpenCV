@@ -5,7 +5,7 @@ Here, I Developed Face Verification with OpenCV. This model can be deployed easi
 To make model Robust try to take samples at different lightning Conditions.        
 
 ### Motivation
-After understanding the basic Fundamentals of OpenCV, I got an idea to build a Face Verifiaction Model
+After understanding the basic Fundamentals of OpenCV, I thought to build a Face Verifiaction Model
 
 ### Demo
 Video Download [Link](https://github.com/nileshchilka1/Face-Verification-with-OpenCV/raw/master/How%20it%20works.mp4)
